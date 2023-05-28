@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memory</string>
+    <string name="start">Start</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="space"></string>
+    <string name="score">0</string>
+</resources>
